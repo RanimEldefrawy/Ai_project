@@ -1,4 +1,4 @@
-# Problem Formulation:
+Problem Formulation:
 -----------------------
 - Initial state :
 
